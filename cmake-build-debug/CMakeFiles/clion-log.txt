@@ -1,0 +1,4 @@
+"F:\JetBrains\Clion\CLion 2018.1.5\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\JetBrains\C++wenjian\OOPPJ_2048
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug

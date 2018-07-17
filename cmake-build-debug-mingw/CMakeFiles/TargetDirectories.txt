@@ -1,0 +1,3 @@
+F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/CMakeFiles/OOPPJ_2048.dir
+F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

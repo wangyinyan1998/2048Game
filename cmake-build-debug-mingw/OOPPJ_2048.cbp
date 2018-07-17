@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="OOPPJ_2048"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OOPPJ_2048">
+				<Option output="F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/OOPPJ_2048.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="f:\mingw_win64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.0/../../../../include/c++/4.8.0"/>
+					<Add directory="f:\mingw_win64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.0/../../../../include/c++/4.8.0/x86_64-w64-mingw32"/>
+					<Add directory="f:\mingw_win64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.0/../../../../include/c++/4.8.0/backward"/>
+					<Add directory="f:\mingw_win64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.0/include"/>
+					<Add directory="f:\mingw_win64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.0/include-fixed"/>
+					<Add directory="f:\mingw_win64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="f:\mingw_win64\mingw64\bin\../../mingw64/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 OOPPJ_2048"/>
+					<CompileFile command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OOPPJ_2048/fast">
+				<Option output="F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/OOPPJ_2048.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="f:\mingw_win64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.0/../../../../include/c++/4.8.0"/>
+					<Add directory="f:\mingw_win64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.0/../../../../include/c++/4.8.0/x86_64-w64-mingw32"/>
+					<Add directory="f:\mingw_win64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.0/../../../../include/c++/4.8.0/backward"/>
+					<Add directory="f:\mingw_win64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.0/include"/>
+					<Add directory="f:\mingw_win64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.0/include-fixed"/>
+					<Add directory="f:\mingw_win64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="f:\mingw_win64\mingw64\bin\../../mingw64/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 OOPPJ_2048/fast"/>
+					<CompileFile command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/mingw_win64/mingw64/bin/mingw32-make.exe -f &quot;F:/JetBrains/C++wenjian/OOPPJ_2048/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/JetBrains/C++wenjian/OOPPJ_2048/Console2048.cpp">
+			<Option target="OOPPJ_2048"/>
+		</Unit>
+		<Unit filename="F:/JetBrains/C++wenjian/OOPPJ_2048/Console2048.h">
+			<Option target="OOPPJ_2048"/>
+		</Unit>
+		<Unit filename="F:/JetBrains/C++wenjian/OOPPJ_2048/Game2048Operation.cpp">
+			<Option target="OOPPJ_2048"/>
+		</Unit>
+		<Unit filename="F:/JetBrains/C++wenjian/OOPPJ_2048/Game2048Operation.h">
+			<Option target="OOPPJ_2048"/>
+		</Unit>
+		<Unit filename="F:/JetBrains/C++wenjian/OOPPJ_2048/Index.cpp">
+			<Option target="OOPPJ_2048"/>
+		</Unit>
+		<Unit filename="F:/JetBrains/C++wenjian/OOPPJ_2048/Index.h">
+			<Option target="OOPPJ_2048"/>
+		</Unit>
+		<Unit filename="F:/JetBrains/C++wenjian/OOPPJ_2048/main.cpp">
+			<Option target="OOPPJ_2048"/>
+		</Unit>
+		<Unit filename="F:/JetBrains/C++wenjian/OOPPJ_2048/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
